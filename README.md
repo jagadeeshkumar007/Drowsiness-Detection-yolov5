@@ -1,5 +1,3 @@
-# Drowsiness-Detection-yolov5
-
 # Drowsiness Detection using YOLOv5 Model
 
 The Drowsiness Detection project utilizes the YOLOv5 model for classifying whether a person is drowsy or awake. It leverages deep learning techniques and a custom dataset to train the model. The project uses PyTorch to load the YOLOv5s model and has been trained for 500 epochs. The `last.pt` weights in the directory `runs/exp5` are utilized for real-time drowsiness detection.
