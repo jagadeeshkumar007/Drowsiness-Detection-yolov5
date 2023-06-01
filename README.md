@@ -22,12 +22,12 @@ To set up the Drowsiness Detection project locally, follow these steps:
 
    ```shell
    git clone https://github.com/your-username/drowsiness-detection-yolov5.git
-2. To see the images navigate into images directory
-3. TO see the lables navigate into labels directory
+2. To see the images navigate into `images` directory
+3. TO see the lables navigate into `labels` directory
 4. Install the required dependencies:
    ```shell
    pip install -r requirements.txt
-5. For remaining details go through the notebook yolo5_object_detection.ipynb
+5. For remaining details go through the notebook `yolo5_object_detection.ipynb`
 ## Usage
 1. Launch the project and ensure that your camera is connected or provide an image for drowsiness detection.
 
